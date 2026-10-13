@@ -4,11 +4,11 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>ServiceHub Global | Connect Service Providers & Clients Worldwide</title>
-  <meta name="description" content="ServiceHub Global connects freelancers, local service professionals, and digital experts with clients. Free directory, zero-cost platform.">
+  <meta name="description" content="ServiceHub Global connects freelancers, local service professionals, and digital experts with clients. Free directory, zero-cost platform. Digital products and compliance-first research.">
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body { font-family: system-ui, -apple-system, sans-serif; line-height: 1.6; color: #1a1a1a; background: #f8fafc; }
-    header { background: #0f172a; color: white; padding: 1rem 2rem; display: flex; justify-content: space-between; align-items: center; }
+    header { background: #0f172a; color: white; padding: 1rem 2rem; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; }
     header h1 { font-size: 1.5rem; }
     nav a { color: #cbd5e1; margin-left: 1.5rem; text-decoration: none; }
     nav a:hover { color: white; }
@@ -24,6 +24,7 @@
     .card h4 { margin-bottom: 0.5rem; color: #1e3a8a; }
     footer { background: #0f172a; color: #94a3b8; text-align: center; padding: 2rem; margin-top: 2rem; }
     .status { background: #fef3c7; color: #92400e; padding: 0.5rem 1rem; border-radius: 4px; display: inline-block; margin-bottom: 1rem; font-size: 0.9rem; }
+    .note { background: #ecfdf5; border-left: 4px solid #10b981; padding: 1rem; margin: 1rem 0; }
   </style>
 </head>
 <body>
@@ -32,6 +33,7 @@
     <nav>
       <a href="#services">Services</a>
       <a href="#how">How It Works</a>
+      <a href="#products">Digital Products</a>
       <a href="#providers">For Providers</a>
       <a href="#contact">Contact</a>
     </nav>
@@ -40,9 +42,10 @@
   <div class="hero">
     <div class="status">Bootstrap Phase • $0 Cost Platform • Free Deploy</div>
     <h2>Connect with Global Service Talent</h2>
-    <p>A free, compliance-first directory connecting skilled service providers with clients worldwide. Digital services, local pros, consulting, and more.</p>
+    <p>A free, compliance-first directory connecting skilled service providers with clients worldwide. Digital services, local pros, consulting, and more. No fees to list or browse during bootstrap.</p>
     <a href="#providers" class="cta">List Your Service Free</a>
     <a href="#services" class="cta secondary">Browse Services</a>
+    <p style="margin-top:1.5rem; font-size:0.95rem;"><a href="https://servicehub-global-mvp.netlify.app" style="color:#93c5fd;">Live interactive MVP</a> (localStorage + forms) also available.</p>
   </div>
 
   <section id="services">
@@ -62,7 +65,7 @@
       </div>
       <div class="card">
         <h4>Real Estate Support</h4>
-        <p>Research assistance using public data, market analysis tools, documentation.</p>
+        <p>Research assistance using public data, market analysis tools, documentation. See digital products.</p>
       </div>
     </div>
   </section>
@@ -85,6 +88,22 @@
     </div>
   </section>
 
+  <section id="products">
+    <h3>Digital Products (Free Drafts)</h3>
+    <div class="note">All products are currently free drafts or lead magnets. Paid versions only after real buyer interest. No fabricated sales.</div>
+    <div class="grid">
+      <div class="card">
+        <h4>Free Public Real Estate Data Research Checklist</h4>
+        <p>Step-by-step guide to county assessor records, Census ACS, FEMA flood maps, and other free public sources. Compliance-first.</p>
+        <p style="margin-top:1rem;"><a href="../digital-products/real-estate-data-checklist.md" class="cta" style="font-size:0.9rem; padding:0.5rem 1rem;">View Checklist (Markdown)</a></p>
+      </div>
+      <div class="card">
+        <h4>Service Provider Starter Kit (Coming)</h4>
+        <p>Profile templates, service description formulas, pricing worksheets, client scripts.</p>
+      </div>
+    </div>
+  </section>
+
   <section id="providers">
     <h3>For Service Providers</h3>
     <p style="text-align:center; max-width:700px; margin:0 auto 2rem;">Join the directory at zero cost. Build visibility, get leads, and grow. Digital products and featured options coming later.</p>
@@ -95,19 +114,24 @@
 
   <section id="contact">
     <h3>Contact / Lead Form</h3>
-    <p style="text-align:center; margin-bottom:1rem;">Interested in listing or partnership? Use the form below (to be connected to free Google Form or Netlify Forms).</p>
-    <form style="max-width:500px; margin:0 auto; background:white; padding:2rem; border-radius:8px;">
-      <label>Name<br><input type="text" style="width:100%; padding:0.5rem; margin-bottom:1rem;" required></label>
-      <label>Email<br><input type="email" style="width:100%; padding:0.5rem; margin-bottom:1rem;" required></label>
-      <label>Message / Service Type<br><textarea style="width:100%; padding:0.5rem; margin-bottom:1rem;" rows="4"></textarea></label>
-      <button type="submit" class="cta" style="border:none; cursor:pointer;">Send (Demo)</button>
-      <p style="font-size:0.85rem; color:#64748b; margin-top:1rem;">Form is placeholder. Wire to free backend (Google Forms, Netlify, or Formspree free tier) for real submissions.</p>
+    <p style="text-align:center; margin-bottom:1rem;">Interested in listing, partnership, or digital products? Reach out via the live MVP waitlist or note interest below.</p>
+    <div class="note" style="max-width:600px; margin:0 auto 2rem;">
+      Live site has an active Netlify form (waitlist): <a href="https://servicehub-global-mvp.netlify.app">servicehub-global-mvp.netlify.app</a>. Submissions currently 0 — real only.
+    </div>
+    <form name="contact" netlify style="max-width:500px; margin:0 auto; background:white; padding:2rem; border-radius:8px;" netlify-honeypot="bot-field">
+      <p style="display:none;"><label>Don’t fill this out: <input name="bot-field"></label></p>
+      <label>Name<br><input type="text" name="name" style="width:100%; padding:0.5rem; margin-bottom:1rem;" required></label>
+      <label>Email<br><input type="email" name="email" style="width:100%; padding:0.5rem; margin-bottom:1rem;" required></label>
+      <label>Message / Service Type<br><textarea name="message" style="width:100%; padding:0.5rem; margin-bottom:1rem;" rows="4"></textarea></label>
+      <button type="submit" class="cta" style="border:none; cursor:pointer;">Send</button>
+      <p style="font-size:0.85rem; color:#64748b; margin-top:1rem;">Netlify Forms ready (add form name if deploying here). Or use the live MVP.</p>
     </form>
   </section>
 
   <footer>
     <p>&copy; 2026 ServiceHub Global. Built $0-cost. All progress tracked honestly in SCOREBOARD.md. No fabricated revenue or contacts.</p>
-    <p>Real-estate research uses only free public sources (county records, Census, data.gov). Compliance-first.</p>
+    <p>Real-estate research uses only free public sources (county records, Census, data.gov, FEMA). Compliance-first.</p>
+    <p>Repo: <a href="https://github.com/jasonjames454015-cmd/servicehub-global" style="color:#94a3b8;">github.com/jasonjames454015-cmd/servicehub-global</a></p>
   </footer>
 </body>
 </html>

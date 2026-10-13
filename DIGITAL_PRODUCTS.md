@@ -14,12 +14,14 @@
    - Flood zone / FEMA free tools
    - Sources list with links
    - Compliance notes (public records only)
+   - **Status (2026-10-13):** v0.2 draft improved with specific free .gov links (King County, Maryland SDAT, Census, FEMA). Available in repo.
 
 3. **Local Service Directory Launch Guide**
    - How to build and populate a free directory
    - SEO basics for service pages
 
-Status: Outlined only. No products created or sold yet. No revenue.
+Status: Outlined and one draft improved. No products created or sold yet. No revenue. Free drafts only until real buyer interest.
 
 ## Next
-- Write the Real Estate Data Checklist as first tangible product (Markdown or PDF).
+- Further polish checklist or convert to PDF (free tools).
+- Draft starter kit content.
