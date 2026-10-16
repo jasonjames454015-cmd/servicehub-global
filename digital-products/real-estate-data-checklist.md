@@ -1,54 +1,60 @@
 # Free Public Real Estate Data Research Checklist
 
-**Version:** 0.2 Improved Draft  
-**Date:** 2026-10-13  
-**Use:** Educational / research only. Always verify current public access and comply with site terms. No scraping behind logins. No paid APIs.
+**Version:** 0.3 Polished Draft  
+**Date:** 2026-10-16  
+**Use:** Educational / research only. Always verify current public access and comply with site terms. Manual lookup preferred. No scraping behind logins. No paid APIs.
 
 ## Pre-Flight
 - [ ] Confirm you are using only free, publicly accessible sources (official .gov preferred).
 - [ ] No paid API keys or accounts required for basic research.
 - [ ] Document the source URL and access date for every data point.
-- [ ] Respect robots.txt and terms; manual lookup only.
+- [ ] Respect robots.txt and terms of use.
+- [ ] Note data freshness (assessor data often lags; Census is multi-year estimates).
 
 ## Step 1: Identify Location
 - [ ] Obtain full address or ZIP code.
-- [ ] Use free Census Geocoder: https://geocoding.geo.census.gov/ (get county, FIPS, census tract, lat/long).
-- [ ] Note jurisdiction details.
+- [ ] Use free Census Geocoder: https://geocoding.geo.census.gov/geocoder/geographies/address (get county, FIPS, census tract, lat/long).
+- [ ] Note jurisdiction details (county, state, city).
 
 ## Step 2: County Property Records (Assessor / Recorder)
-Search for official portals. Examples of free public access:
-- King County, WA: https://kingcounty.gov/en/dept/assessor/buildings-and-property/property-value-and-information/look-up-property-information (search by address or parcel).
-- Maryland SDAT: https://sdat.dat.maryland.gov/RealProperty/Pages/default.aspx (statewide, select county).
+Search for official portals. Examples of free public access (verified as .gov):
+- King County, WA: https://kingcounty.gov/en/dept/assessor/buildings-and-property/property-value-and-information/look-up-property-information
+- Maryland SDAT (statewide): https://sdat.dat.maryland.gov/RealProperty/Pages/default.aspx
+- Los Angeles County, CA: https://assessor.lacounty.gov/ (Property Search)
+- Cook County, IL: https://www.cookcountyassessor.com/ (search portal)
 - Many others: Search "[County Name] [State] assessor property search" or "property appraiser".
-- Retrieve (if public): owner name, assessed value, tax amount, property type, square footage, sales history.
-- Screenshot or note the official URL and date accessed. Avoid aggregator sites that require accounts for full data.
+- Retrieve (if public): owner name (where allowed), assessed value, tax amount, property type, square footage, year built, last sale date/price (varies by state).
+- Screenshot or note the official URL and date accessed. Prefer direct .gov over third-party aggregators.
 
 ## Step 3: Census Demographics & Housing
-- [ ] Go to data.census.gov.
-- [ ] Search by census tract, county, or ZIP for ACS 5-year estimates: median household income, housing occupancy, median home value (e.g., tables DP04 Selected Housing Characteristics, B25077 Median Value).
+- [ ] Go to https://data.census.gov
+- [ ] Search by census tract, county, or ZIP for ACS 5-year estimates: median household income, housing occupancy, median home value, housing units (tables like DP04, B25077, S2503).
 - [ ] Record the ACS year (e.g., 2019-2023 or latest available).
-- Free API available at api.census.gov (key free to register).
+- Free API at https://api.census.gov (optional free key registration).
 
 ## Step 4: Flood & Hazard (Free)
 - [ ] Use FEMA Flood Map Service Center: https://msc.fema.gov/portal/home (public viewer, address search).
 - [ ] Determine flood zone for the address.
-- [ ] Check state GIS portals if available (search "[State] GIS parcel viewer").
+- [ ] Check state GIS portals (search "[State] GIS parcel viewer" or open data portal).
 
 ## Step 5: Additional Free Sources
-- [ ] data.gov catalog for housing-related datasets.
-- [ ] HUD User: https://www.huduser.gov/ (fair market rents, etc.).
-- [ ] Local treasurer sites for tax delinquency status (official .gov).
+- [ ] data.gov: search "housing", "real property", "parcel".
+- [ ] HUD User: https://www.huduser.gov/ (Fair Market Rents, housing data).
+- [ ] FHFA House Price Index: https://www.fhfa.gov/data (downloadable HPI).
+- [ ] Local treasurer/tax collector sites for tax status (official .gov).
+- [ ] OpenAddresses for address validation: https://openaddresses.io
 
 ## Step 6: Compile & Document
-- [ ] Create a simple one-page summary with sources and dates.
+- [ ] Create a simple one-page summary with sources, dates, and key findings.
 - [ ] List all URLs accessed.
-- [ ] Flag any data that required login or payment (do not use those).
-- [ ] Note limitations: data varies by county; some require in-person requests.
+- [ ] Flag any data that required login or payment (do not use those for this research).
+- [ ] Note limitations: data varies by county/state; some records require in-person or formal requests; always cross-verify.
 
 ## Notes
-- Availability varies widely. Prioritize official government sites.
-- This checklist is the foundation for a future digital product (PDF or Notion template). Currently free draft.
-- No revenue generated from this draft. For sale only after real buyer interest and polish.
+- Availability varies widely by jurisdiction. Prioritize official government sites.
+- This checklist is a free draft foundation for a potential digital product (PDF, Notion template, or worksheet). Currently free.
+- No revenue generated. For any future sale only after real buyer interest and further polish.
+- Compliance: Public records only. Do not redistribute raw data in violation of source terms.
 
-**Status:** Improved with specific free source links. Ready for further expansion or PDF conversion.  
-**Next:** Add more county examples or convert to downloadable format.
+**Status:** v0.3 — Added more county examples (LA, Cook), FHFA, OpenAddresses; improved structure and compliance notes.  
+**Next:** Convert to simple PDF or add worksheet template.
