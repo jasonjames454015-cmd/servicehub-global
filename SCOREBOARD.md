@@ -1,12 +1,20 @@
 # ServiceHub Global - SCOREBOARD
 
-**Last Updated:** 2026-10-16  
+**Last Updated:** 2026-10-17  
 **Status:** Bootstrap phase. No revenue, no clients, no deals yet. All progress is foundational and $0-cost.
 
 ## Project Overview
 ServiceHub Global is a $0-cost static platform for connecting service providers (freelancers, local pros, digital services) with clients worldwide. Focus: free deployment, service directory, digital products, and compliance-first real-estate research tools/resources.
 
 ## Progress Log (Real only)
+
+### 2026-10-17
+- Verified live Netlify MVP (servicehub-global-mvp) still has waitlist form submissions = 0 (form id 6ab7c51de447e70008e0ffee). No fabricated leads.
+- Expanded digital product: digital-products/service-provider-starter-kit.md to v0.2 — added concrete profile examples, pricing worksheet table, full scripts, free tools list, and action checklist.
+- Confirmed latest public mortgage data (FRED / Freddie Mac PMMS as of 2026-10-15): 30-year fixed 7.40% (unchanged from prior week), 15-year 6.71%. Source: fred.stlouisfed.org and freddiemac.com/pmms. Educational note only — not a rate quote.
+- Confirmed HUD USER has FY2026 Fair Market Rents and Small Area FMRs available for free download/lookup (huduser.gov). No paid access used.
+- Updated local SCOREBOARD and prepared repo push. No money spent. No outreach sent.
+- No new revenue, clients, or fabricated metrics.
 
 ### 2026-10-16
 - Cloned public repo locally for continued work.
@@ -35,14 +43,14 @@ ServiceHub Global is a $0-cost static platform for connecting service providers 
 | - | None yet | $0 | No fabricated figures. |
 
 ## Clients / Contacts
-None. Do not list any until real. Live site waitlist submissions: 0 (as of last check).
+None. Do not list any until real. Live site waitlist submissions: 0 (verified 2026-10-17).
 
 ## Next Priority Tasks ($0 only)
-1. Push updated files to GitHub repo.
-2. Link new starter kit in the static landing page.
+1. Push updated starter kit (v0.2) and SCOREBOARD to GitHub repo.
+2. Link or note the expanded kit on landing page if needed.
 3. Monitor live Netlify forms for real leads.
-4. Further polish products or add sample service directory entries.
-5. Consider free PDF conversion of checklist (using free tools).
+4. Further polish products or add sample service directory entries (real only).
+5. Consider free PDF conversion of checklist or starter kit sections.
 
 ## Blockers
-None currently. Free tools available. Live MVP operational. Public repo ready for updates.
+None currently. Free tools available. Live MVP operational (0 submissions). Public repo ready for updates. No paid credits needed.

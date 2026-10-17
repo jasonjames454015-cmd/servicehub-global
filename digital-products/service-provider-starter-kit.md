@@ -1,41 +1,83 @@
 # Service Provider Starter Kit (Free Draft)
 
-**Version:** 0.1 Outline  
-**Date:** 2026-10-16  
-**Purpose:** Help freelancers and local service providers create a professional listing and attract clients with $0 tools.
+**Version:** 0.2 Expanded Draft  
+**Date:** 2026-10-17  
+**Purpose:** Help freelancers and local service providers create a professional listing and attract clients with $0 tools. Educational only. No guaranteed results.
 
-## 1. Profile Template
-- Headline: [Service] for [Target Client] in [Location/Remote]
-- Bio (100-150 words): Experience, unique value, results (use numbers if real).
-- Services offered (3-5 specific, not vague).
-- Portfolio / Proof: Links to past work, testimonials (only real ones).
-- Contact: Email or form link. Availability notes.
+## 1. Profile Template (Copy & Adapt)
+
+**Headline:** [Specific Service] for [Specific Client Type] in [Location or Remote]
+
+Example: "Landing Page Redesign for Local Service Businesses in Lagos / Remote"
+
+**Bio (120-160 words):**
+- Years of relevant experience or specific results (only real numbers).
+- Unique angle (speed, industry focus, process).
+- Proof statement (e.g., "Helped 3 local businesses improve mobile conversion" — only if true).
+- Availability: "Available for 2 new projects this month."
+
+**Services (list 3-5 concrete):**
+- Website landing page redesign (1-page)
+- Quote system setup (forms + follow-up)
+- Spreadsheet cleanup & simple dashboard
+- Client intake automation (free tools)
+
+**Proof section:**
+- Links to real past work only.
+- Testimonials: only genuine ones with permission.
+
+**Contact:** Email or link to free form (Netlify Forms, Google Forms, etc.).
 
 ## 2. Service Description Formula
-Structure:
-1. Problem you solve.
-2. How you solve it (process).
-3. Deliverables / outcome.
-4. Pricing range or "Contact for quote" (bootstrap).
-5. Call to action.
 
-Example: "I help small businesses increase website leads by redesigning landing pages. Process: audit → wireframe → build → test. Outcome: clear CTA and mobile-friendly site. Starting at $X or free consult."
+1. **Problem:** "Local businesses lose leads because their site isn't mobile-friendly or has no clear CTA."
+2. **Solution process:** Audit (30 min) → Wireframe → Build on free hosting → Test & handoff.
+3. **Deliverables:** Responsive one-page site, contact form, basic analytics setup.
+4. **Pricing:** "Starting at $X (or free consult during bootstrap). Package options below."
+5. **CTA:** "Reply with your current site URL for a free 10-minute review."
 
-## 3. Pricing Worksheet
-- Cost of time/tools.
-- Market rates for similar services (research free on public job boards or directories).
-- Package options: Basic / Standard / Premium.
-- Note: During bootstrap, consider free or low-cost to build reviews.
+## 3. Pricing Worksheet (Bootstrap Phase)
+
+| Item | Estimate | Notes |
+|------|----------|-------|
+| Your hourly rate target | $XX | Research similar free listings on directories |
+| Time for basic package | 4-8 hrs | Keep scope tight |
+| Tools cost | $0 | Use free tiers only |
+| Market check | Free job boards, public directories | No paid research |
+
+**Packages:**
+- Basic: $X — Audit + recommendations PDF
+- Standard: $XX — Full one-page rebuild on free host
+- Premium: $XXX — + follow-up email sequence
+
+During early stage: offer 1-2 free or low-cost to get real testimonials.
 
 ## 4. Client Communication Scripts
-- Inquiry response: "Thanks for reaching out about [service]. Here's how I can help..."
-- Scope confirmation: List deliverables, timeline, price.
-- Follow-up: Polite check-in after 3-5 days.
 
-## 5. Free Tools for Visibility
-- GitHub Pages / Netlify free site for portfolio.
-- LinkedIn / free social for posts.
-- This ServiceHub directory (list free).
+**Inquiry response (same day):**
+"Thanks for the message about [service]. I help [client type] by [outcome]. Here's a quick outline of how it works: [3 steps]. Available this week for a short call or async review. What is your current site or biggest bottleneck?"
 
-**Status:** Outline only. Expand with examples and templates next. Free draft — no sales.  
-**Compliance:** Do not promise results you cannot deliver. Real testimonials only.
+**Scope confirmation:**
+"Confirming scope: [list deliverables]. Timeline: X days. Price: $XX, 50% to start. Next step: reply 'yes' and I'll send the simple agreement."
+
+**Follow-up (day 3-5, no reply):**
+"Just checking if you still need help with [specific problem]. Happy to share a short example if useful. No pressure."
+
+## 5. Free Tools for Visibility ($0 only)
+
+- Portfolio: GitHub Pages or Netlify free site.
+- Directory listing: ServiceHub Global (free).
+- Content: LinkedIn posts, X/Twitter, free Substack or Medium.
+- Forms: Netlify Forms or Google Forms.
+- Contracts: Free templates (adapt carefully; not legal advice).
+
+## 6. Next Steps Checklist
+- [ ] Write your headline and bio using the template.
+- [ ] List 3 specific services with outcomes.
+- [ ] Research 5 similar providers publicly for pricing range (document sources).
+- [ ] Set up a free portfolio page.
+- [ ] Prepare 2 real (or sample) case notes.
+
+**Status:** v0.2 — Expanded with concrete examples, pricing table, scripts, and checklist. Still free draft. No sales.  
+**Compliance:** Do not invent results or testimonials. Scope tightly. Collect payment only after written agreement and delivery (or agreed deposit).  
+**Next:** Convert key sections to fillable PDF or Notion template using free tools.
