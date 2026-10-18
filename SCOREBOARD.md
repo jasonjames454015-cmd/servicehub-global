@@ -1,12 +1,18 @@
 # ServiceHub Global - SCOREBOARD
 
-**Last Updated:** 2026-10-17  
+**Last Updated:** 2026-10-18  
 **Status:** Bootstrap phase. No revenue, no clients, no deals yet. All progress is foundational and $0-cost.
 
 ## Project Overview
 ServiceHub Global is a $0-cost static platform for connecting service providers (freelancers, local pros, digital services) with clients worldwide. Focus: free deployment, service directory, digital products, and compliance-first real-estate research tools/resources.
 
 ## Progress Log (Real only)
+
+### 2026-10-18
+- Verified live Netlify MVP (servicehub-global-mvp) waitlist form submissions = 0 (form id 6ab7c51de447e70008e0ffee). No fabricated leads.
+- Confirmed latest public mortgage data (FRED / Freddie Mac PMMS as of 2026-10-15): 30-year fixed 7.40% (unchanged from prior week), 15-year 6.71% (down 0.02 from prior). Source: fred.stlouisfed.org/series/MORTGAGE30US and freddiemac.com/pmms. Educational note only — not a rate quote.
+- Live production deploy remains ready (deploy id 6aba6ba2fe16e7000898d26f). Free tier maintained. No credits purchased.
+- No new revenue, clients, or fabricated metrics. No outreach sent.
 
 ### 2026-10-17
 - Verified live Netlify MVP (servicehub-global-mvp) still has waitlist form submissions = 0 (form id 6ab7c51de447e70008e0ffee). No fabricated leads.
@@ -43,14 +49,14 @@ ServiceHub Global is a $0-cost static platform for connecting service providers 
 | - | None yet | $0 | No fabricated figures. |
 
 ## Clients / Contacts
-None. Do not list any until real. Live site waitlist submissions: 0 (verified 2026-10-17).
+None. Do not list any until real. Live site waitlist submissions: 0 (verified 2026-10-18).
 
 ## Next Priority Tasks ($0 only)
-1. Push updated starter kit (v0.2) and SCOREBOARD to GitHub repo.
-2. Link or note the expanded kit on landing page if needed.
-3. Monitor live Netlify forms for real leads.
-4. Further polish products or add sample service directory entries (real only).
-5. Consider free PDF conversion of checklist or starter kit sections.
+1. Monitor live Netlify forms for real leads (next check after next PMMS if relevant).
+2. Expand digital products or add free sample provider profiles (real only, no fabrication).
+3. Consider connecting this repo to Cloudflare Pages or Netlify for free deploy of the static landing.
+4. Further research free public data sources as needed.
+5. Convert key product sections to simple PDF using free tools if desired.
 
 ## Blockers
 None currently. Free tools available. Live MVP operational (0 submissions). Public repo ready for updates. No paid credits needed.
