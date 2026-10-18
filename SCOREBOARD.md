@@ -12,6 +12,8 @@ ServiceHub Global is a $0-cost static platform for connecting service providers 
 - Verified live Netlify MVP (servicehub-global-mvp) waitlist form submissions = 0 (form id 6ab7c51de447e70008e0ffee). No fabricated leads.
 - Confirmed latest public mortgage data (FRED / Freddie Mac PMMS as of 2026-10-15): 30-year fixed 7.40% (unchanged from prior week), 15-year 6.71% (down 0.02 from prior). Source: fred.stlouisfed.org/series/MORTGAGE30US and freddiemac.com/pmms. Educational note only — not a rate quote.
 - Live production deploy remains ready (deploy id 6aba6ba2fe16e7000898d26f). Free tier maintained. No credits purchased.
+- Created new free Netlify project `servicehub-global` (site id b60288d1-2314-4433-b306-9e1a98d4bc82, URL https://servicehub-global.netlify.app) for the static landing page.
+- Attempted deploy via Netlify CLI/MCP; deploy id 6ad4ca0ef4098348a028b8d0 skipped with error "Skipped due to account credit usage exceeded". No paid upgrade. Existing MVP remains the live free deploy.
 - No new revenue, clients, or fabricated metrics. No outreach sent.
 
 ### 2026-10-17
@@ -54,9 +56,9 @@ None. Do not list any until real. Live site waitlist submissions: 0 (verified 20
 ## Next Priority Tasks ($0 only)
 1. Monitor live Netlify forms for real leads (next check after next PMMS if relevant).
 2. Expand digital products or add free sample provider profiles (real only, no fabrication).
-3. Consider connecting this repo to Cloudflare Pages or Netlify for free deploy of the static landing.
+3. Explore Cloudflare Pages or GitHub Pages for free static landing deploy (Netlify free credits currently exceeded).
 4. Further research free public data sources as needed.
 5. Convert key product sections to simple PDF using free tools if desired.
 
 ## Blockers
-None currently. Free tools available. Live MVP operational (0 submissions). Public repo ready for updates. No paid credits needed.
+Netlify free tier credit usage exceeded for new deploys (existing MVP remains live). Free tools available. Live MVP operational (0 submissions). Public repo ready for updates. No paid credits needed.
