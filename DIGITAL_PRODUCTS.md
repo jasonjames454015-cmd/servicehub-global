@@ -7,7 +7,8 @@
    - Service description formulas
    - Pricing guide worksheet
    - Client communication scripts
-   - **Status (2026-10-17):** v0.2 expanded draft in digital-products/service-provider-starter-kit.md. Added concrete examples, pricing table, full scripts, free tools, and checklist. Free only.
+   - Sample one-page HTML structure
+   - **Status (2026-10-22):** v0.3 expanded draft in digital-products/service-provider-starter-kit.md. Added expanded free tools, sample HTML profile template, and GitHub Pages guidance. Free only.
 
 2. **Free Public Real Estate Data Research Checklist**
    - Step-by-step: how to pull county assessor data
@@ -27,3 +28,4 @@ Status: Two free drafts improved/created. No products created or sold yet. No re
 - Link both drafts from landing page (already done for current versions).
 - Further polish or convert checklist/starter kit sections to PDF (free tools).
 - Expand with more examples or convert to fillable format.
+- Consider GitHub Pages as primary free static host while Netlify free credits are constrained.

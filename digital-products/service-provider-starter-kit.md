@@ -1,7 +1,7 @@
 # Service Provider Starter Kit (Free Draft)
 
-**Version:** 0.2 Expanded Draft  
-**Date:** 2026-10-17  
+**Version:** 0.3 Expanded Draft  
+**Date:** 2026-10-22  
 **Purpose:** Help freelancers and local service providers create a professional listing and attract clients with $0 tools. Educational only. No guaranteed results.
 
 ## 1. Profile Template (Copy & Adapt)
@@ -70,14 +70,50 @@ During early stage: offer 1-2 free or low-cost to get real testimonials.
 - Content: LinkedIn posts, X/Twitter, free Substack or Medium.
 - Forms: Netlify Forms or Google Forms.
 - Contracts: Free templates (adapt carefully; not legal advice).
+- Analytics: Plausible free tier or Google Analytics (privacy-respecting options).
+- Scheduling: Cal.com free or Google Calendar public booking links.
 
-## 6. Next Steps Checklist
+## 6. Sample One-Page Profile Structure (HTML Template)
+
+Copy the structure below into a free GitHub Pages or Netlify site. Replace all [placeholders] with real information only.
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>[Your Service] — [Your Name]</title>
+  <meta name="description" content="[One-sentence outcome for your ideal client]">
+</head>
+<body>
+  <h1>[Specific Service] for [Client Type]</h1>
+  <p>[120-word bio with real results only]</p>
+  <h2>Services</h2>
+  <ul>
+    <li>[Service 1] — [Outcome]</li>
+    <li>[Service 2] — [Outcome]</li>
+  </ul>
+  <h2>How It Works</h2>
+  <ol>
+    <li>Free 10-min review</li>
+    <li>Clear scope & price</li>
+    <li>Delivery on free hosting</li>
+  </ol>
+  <p><a href="mailto:[your@email]">Contact me</a> or use the form below.</p>
+  <!-- Add free form here -->
+</body>
+</html>
+```
+
+## 7. Next Steps Checklist
+
 - [ ] Write your headline and bio using the template.
 - [ ] List 3 specific services with outcomes.
 - [ ] Research 5 similar providers publicly for pricing range (document sources).
-- [ ] Set up a free portfolio page.
-- [ ] Prepare 2 real (or sample) case notes.
+- [ ] Set up a free portfolio page (GitHub Pages recommended while Netlify credits are constrained).
+- [ ] Prepare 2 real (or sample with clear "example" label) case notes.
+- [ ] Add a free contact form.
 
-**Status:** v0.2 — Expanded with concrete examples, pricing table, scripts, and checklist. Still free draft. No sales.  
+**Status:** v0.3 — Added free tools list expansion, sample HTML profile structure, and GitHub Pages note. Still free draft. No sales.  
 **Compliance:** Do not invent results or testimonials. Scope tightly. Collect payment only after written agreement and delivery (or agreed deposit).  
-**Next:** Convert key sections to fillable PDF or Notion template using free tools.
+**Next:** Convert key sections to fillable PDF or Notion template using free tools if needed.

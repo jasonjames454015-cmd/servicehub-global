@@ -1,12 +1,19 @@
 # ServiceHub Global - SCOREBOARD
 
-**Last Updated:** 2026-10-18  
+**Last Updated:** 2026-10-22  
 **Status:** Bootstrap phase. No revenue, no clients, no deals yet. All progress is foundational and $0-cost.
 
 ## Project Overview
 ServiceHub Global is a $0-cost static platform for connecting service providers (freelancers, local pros, digital services) with clients worldwide. Focus: free deployment, service directory, digital products, and compliance-first real-estate research tools/resources.
 
 ## Progress Log (Real only)
+
+### 2026-10-22
+- Verified live Netlify MVP (https://servicehub-global-mvp.netlify.app) still operational. Page reports 0 requests, 0 providers, 0 quotes, 0 pipeline rows, 0 waitlist emails in localStorage. No fabricated leads. Prior Netlify form submission_count remains 0.
+- Confirmed latest public mortgage data (Freddie Mac PMMS as of 2026-10-15): 30-year fixed 7.40% (unchanged), 15-year 6.71%. Next weekly release expected today (Thursday). Source: freddiemac.com/pmms and FRED. Educational note only — not a rate quote.
+- Expanded digital product: digital-products/service-provider-starter-kit.md to v0.3 — added expanded free tools list, sample one-page HTML profile structure (placeholders only), and GitHub Pages guidance for providers.
+- Netlify free tier credit usage still exceeded for new deploys (existing MVP remains live). No paid upgrade. Public repo ready for GitHub Pages or other free static hosts.
+- No new revenue, clients, or fabricated metrics. No outreach sent. No money spent.
 
 ### 2026-10-18
 - Verified live Netlify MVP (servicehub-global-mvp) waitlist form submissions = 0 (form id 6ab7c51de447e70008e0ffee). No fabricated leads.
@@ -51,14 +58,14 @@ ServiceHub Global is a $0-cost static platform for connecting service providers 
 | - | None yet | $0 | No fabricated figures. |
 
 ## Clients / Contacts
-None. Do not list any until real. Live site waitlist submissions: 0 (verified 2026-10-18).
+None. Do not list any until real. Live site waitlist submissions: 0 (verified 2026-10-22 via site check; prior form id confirmation 2026-10-18).
 
 ## Next Priority Tasks ($0 only)
 1. Monitor live Netlify forms for real leads (next check after next PMMS if relevant).
 2. Expand digital products or add free sample provider profiles (real only, no fabrication).
-3. Explore Cloudflare Pages or GitHub Pages for free static landing deploy (Netlify free credits currently exceeded).
+3. Enable GitHub Pages on the public repo for free static landing deploy (Netlify free credits currently exceeded).
 4. Further research free public data sources as needed.
 5. Convert key product sections to simple PDF using free tools if desired.
 
 ## Blockers
-Netlify free tier credit usage exceeded for new deploys (existing MVP remains live). Free tools available. Live MVP operational (0 submissions). Public repo ready for updates. No paid credits needed.
+Netlify free tier credit usage exceeded for new deploys (existing MVP remains live). Free tools available. Live MVP operational (0 submissions). Public repo ready for updates and GitHub Pages. No paid credits needed.
