@@ -1,7 +1,7 @@
 # Service Provider Starter Kit (Free Draft)
 
-**Version:** 0.3 Expanded Draft  
-**Date:** 2026-10-22  
+**Version:** 0.4 Expanded Draft  
+**Date:** 2026-10-23  
 **Purpose:** Help freelancers and local service providers create a professional listing and attract clients with $0 tools. Educational only. No guaranteed results.
 
 ## 1. Profile Template (Copy & Adapt)
@@ -65,13 +65,15 @@ During early stage: offer 1-2 free or low-cost to get real testimonials.
 
 ## 5. Free Tools for Visibility ($0 only)
 
-- Portfolio: GitHub Pages or Netlify free site.
+- Portfolio: GitHub Pages (recommended current free option) or Netlify free site.
 - Directory listing: ServiceHub Global (free).
 - Content: LinkedIn posts, X/Twitter, free Substack or Medium.
 - Forms: Netlify Forms or Google Forms.
 - Contracts: Free templates (adapt carefully; not legal advice).
 - Analytics: Plausible free tier or Google Analytics (privacy-respecting options).
 - Scheduling: Cal.com free or Google Calendar public booking links.
+
+**Note (2026-10-23):** Latest Freddie Mac PMMS 30-year fixed average is 7.32% (as of Oct 22). Educational context only for any real-estate-related services; not a rate quote.
 
 ## 6. Sample One-Page Profile Structure (HTML Template)
 
@@ -114,6 +116,6 @@ Copy the structure below into a free GitHub Pages or Netlify site. Replace all [
 - [ ] Prepare 2 real (or sample with clear "example" label) case notes.
 - [ ] Add a free contact form.
 
-**Status:** v0.3 — Added free tools list expansion, sample HTML profile structure, and GitHub Pages note. Still free draft. No sales.  
+**Status:** v0.4 — Added current PMMS educational note and reinforced GitHub Pages as free host. Still free draft. No sales.  
 **Compliance:** Do not invent results or testimonials. Scope tightly. Collect payment only after written agreement and delivery (or agreed deposit).  
-**Next:** Convert key sections to fillable PDF or Notion template using free tools if needed.
+**Next:** Convert key sections to fillable PDF or Notion template using free tools if needed. Enable GitHub Pages on this repo for the landing page.
