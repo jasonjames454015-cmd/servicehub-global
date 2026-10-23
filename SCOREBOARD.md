@@ -12,7 +12,9 @@ ServiceHub Global is a $0-cost static platform for connecting service providers 
 - Confirmed latest public mortgage data (Freddie Mac PMMS as of 2026-10-22): 30-year fixed 7.32% (down 0.08 from prior week), 15-year 6.68% (down 0.03). Source: freddiemac.com/pmms. Educational note only — not a rate quote.
 - Verified live Netlify MVP waitlist form submissions remain 0 (form id 6ab7c51de447e70008e0ffee). No fabricated leads.
 - Confirmed Netlify free tier credits still constrain new deploys; existing MVP remains live and operational.
-- Public repo ready. Next: enable GitHub Pages from main branch (publish from /servicehub or root) as free static host alternative.
+- Updated digital product digital-products/service-provider-starter-kit.md to v0.4 — added PMMS educational note and reinforced GitHub Pages guidance.
+- Added servicehub/.nojekyll to support raw HTML serving if GitHub Pages is enabled from that folder.
+- Public repo ready. Next: enable GitHub Pages from main branch (publish from /servicehub) as free static host alternative.
 - No new revenue, clients, or fabricated metrics. No outreach sent. No money spent.
 
 ### 2026-10-22
@@ -68,7 +70,7 @@ ServiceHub Global is a $0-cost static platform for connecting service providers 
 None. Do not list any until real. Live site waitlist submissions: 0 (verified 2026-10-23 via Netlify form id 6ab7c51de447e70008e0ffee; prior checks 2026-10-22 and 2026-10-18).
 
 ## Next Priority Tasks ($0 only)
-1. Enable GitHub Pages on the public repo (Settings > Pages > Deploy from branch main, folder /servicehub or root) for free static landing deploy.
+1. Enable GitHub Pages on the public repo (Settings > Pages > Deploy from branch main, folder /servicehub) for free static landing deploy. .nojekyll added.
 2. Monitor live Netlify forms for real leads.
 3. Expand digital products or add free sample provider profiles (real only, no fabrication).
 4. Further research free public data sources as needed.
