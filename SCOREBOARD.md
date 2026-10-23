@@ -1,12 +1,19 @@
 # ServiceHub Global - SCOREBOARD
 
-**Last Updated:** 2026-10-22  
+**Last Updated:** 2026-10-23  
 **Status:** Bootstrap phase. No revenue, no clients, no deals yet. All progress is foundational and $0-cost.
 
 ## Project Overview
 ServiceHub Global is a $0-cost static platform for connecting service providers (freelancers, local pros, digital services) with clients worldwide. Focus: free deployment, service directory, digital products, and compliance-first real-estate research tools/resources.
 
 ## Progress Log (Real only)
+
+### 2026-10-23
+- Confirmed latest public mortgage data (Freddie Mac PMMS as of 2026-10-22): 30-year fixed 7.32% (down 0.08 from prior week), 15-year 6.68% (down 0.03). Source: freddiemac.com/pmms. Educational note only — not a rate quote.
+- Verified live Netlify MVP waitlist form submissions remain 0 (form id 6ab7c51de447e70008e0ffee). No fabricated leads.
+- Confirmed Netlify free tier credits still constrain new deploys; existing MVP remains live and operational.
+- Public repo ready. Next: enable GitHub Pages from main branch (publish from /servicehub or root) as free static host alternative.
+- No new revenue, clients, or fabricated metrics. No outreach sent. No money spent.
 
 ### 2026-10-22
 - Verified live Netlify MVP (https://servicehub-global-mvp.netlify.app) still operational. Page reports 0 requests, 0 providers, 0 quotes, 0 pipeline rows, 0 waitlist emails in localStorage. No fabricated leads. Prior Netlify form submission_count remains 0.
@@ -58,12 +65,12 @@ ServiceHub Global is a $0-cost static platform for connecting service providers 
 | - | None yet | $0 | No fabricated figures. |
 
 ## Clients / Contacts
-None. Do not list any until real. Live site waitlist submissions: 0 (verified 2026-10-22 via site check; prior form id confirmation 2026-10-18).
+None. Do not list any until real. Live site waitlist submissions: 0 (verified 2026-10-23 via Netlify form id 6ab7c51de447e70008e0ffee; prior checks 2026-10-22 and 2026-10-18).
 
 ## Next Priority Tasks ($0 only)
-1. Monitor live Netlify forms for real leads (next check after next PMMS if relevant).
-2. Expand digital products or add free sample provider profiles (real only, no fabrication).
-3. Enable GitHub Pages on the public repo for free static landing deploy (Netlify free credits currently exceeded).
+1. Enable GitHub Pages on the public repo (Settings > Pages > Deploy from branch main, folder /servicehub or root) for free static landing deploy.
+2. Monitor live Netlify forms for real leads.
+3. Expand digital products or add free sample provider profiles (real only, no fabrication).
 4. Further research free public data sources as needed.
 5. Convert key product sections to simple PDF using free tools if desired.
 
