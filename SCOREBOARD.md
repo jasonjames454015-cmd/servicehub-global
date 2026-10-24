@@ -11,6 +11,8 @@ ServiceHub Global is a $0-cost static platform for connecting service providers 
 ### 2026-10-24
 - Confirmed latest public mortgage data remains Freddie Mac PMMS as of 2026-10-22: 30-year fixed 7.32% (down 0.08 from prior week), 15-year 6.68% (down 0.03). No new weekly release yet. Source: freddiemac.com/pmms. Educational note only — not a rate quote.
 - Added GitHub Actions workflow (.github/workflows/pages.yml) to enable free static deploy of /servicehub folder to GitHub Pages (bypasses Netlify credit limit). Public repo only; $0 cost.
+- Updated servicehub/index.html to note GitHub Pages option and fixed digital product links to full GitHub URLs.
+- Updated README.md with clear free deploy instructions including the Actions workflow.
 - Verified live Netlify MVP still operational with 0 form submissions (prior verification). No fabricated leads.
 - Public repo ready for Pages deployment. No money spent. No outreach sent. No new revenue or clients.
 
@@ -76,7 +78,7 @@ ServiceHub Global is a $0-cost static platform for connecting service providers 
 None. Do not list any until real. Live site waitlist submissions: 0 (verified 2026-10-23 via Netlify form id 6ab7c51de447e70008e0ffee; prior checks 2026-10-22 and 2026-10-18).
 
 ## Next Priority Tasks ($0 only)
-1. Trigger or confirm GitHub Pages deploy via the new workflow (Settings > Pages > Source: GitHub Actions). Expected URL: https://jasonjames454015-cmd.github.io/servicehub-global/
+1. Set repo Settings > Pages > Source to "GitHub Actions" to activate the free deploy workflow. Expected URL: https://jasonjames454015-cmd.github.io/servicehub-global/
 2. Monitor live Netlify forms for real leads.
 3. Expand digital products or add free sample provider profiles (real only, no fabrication).
 4. Further research free public data sources as needed.
