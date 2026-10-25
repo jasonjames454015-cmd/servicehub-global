@@ -8,7 +8,7 @@
    - Pricing guide worksheet
    - Client communication scripts
    - Sample one-page HTML structure
-   - **Status (2026-10-22):** v0.3 expanded draft in digital-products/service-provider-starter-kit.md. Added expanded free tools, sample HTML profile template, and GitHub Pages guidance. Free only.
+   - **Status (2026-10-23):** v0.4 expanded draft in digital-products/service-provider-starter-kit.md. Added PMMS educational note and reinforced GitHub Pages guidance. Free only.
 
 2. **Free Public Real Estate Data Research Checklist**
    - Step-by-step: how to pull county assessor data
@@ -16,7 +16,7 @@
    - Flood zone / FEMA free tools
    - Sources list with links
    - Compliance notes (public records only)
-   - **Status (2026-10-16):** v0.3 polished draft with additional county examples (LA, Cook), FHFA, OpenAddresses. Available in repo.
+   - **Status (2026-10-25):** v0.4 polished draft — added current PMMS educational note (as of 2026-10-22: 30yr 7.32%), confirmed HUD FY2026 FMRs free. Available in repo.
 
 3. **Local Service Directory Launch Guide**
    - How to build and populate a free directory
