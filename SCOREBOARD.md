@@ -11,6 +11,8 @@ ServiceHub Global is a $0-cost static platform for connecting service providers 
 ### 2026-10-25
 - Verified live Netlify MVP (https://servicehub-global-mvp.netlify.app, site id ff381168-7425-4941-be77-fc8ceedac47b) waitlist form submissions remain 0 (form id 6ab7c51de447e70008e0ffee, last_submission_at null). No fabricated leads. Forms enabled with honeypot.
 - Confirmed latest public mortgage data remains Freddie Mac PMMS as of 2026-10-22: 30-year fixed 7.32% (down 0.08 from prior week), 15-year 6.68% (down 0.03). No new weekly release as of 2026-10-25 (releases Thursdays). Source: freddiemac.com/pmms. Educational note only — not a rate quote.
+- Updated digital product digital-products/real-estate-data-checklist.md to v0.4 — added current PMMS educational note and confirmed free HUD FMR access.
+- Updated DIGITAL_PRODUCTS.md to reflect v0.4 status.
 - Confirmed GitHub Actions workflow present for free Pages deploy; repo public and ready. No money spent. No outreach sent. No new revenue or clients.
 - No new revenue, clients, or fabricated metrics.
 
