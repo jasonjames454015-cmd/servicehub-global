@@ -1,7 +1,7 @@
 # Free Public Real Estate Data Research Checklist
 
-**Version:** 0.3 Polished Draft  
-**Date:** 2026-10-16  
+**Version:** 0.4 Polished Draft  
+**Date:** 2026-10-25  
 **Use:** Educational / research only. Always verify current public access and comply with site terms. Manual lookup preferred. No scraping behind logins. No paid APIs.
 
 ## Pre-Flight
@@ -39,8 +39,9 @@ Search for official portals. Examples of free public access (verified as .gov):
 
 ## Step 5: Additional Free Sources
 - [ ] data.gov: search "housing", "real property", "parcel".
-- [ ] HUD User: https://www.huduser.gov/ (Fair Market Rents, housing data).
+- [ ] HUD User: https://www.huduser.gov/ (Fair Market Rents, housing data). FY2026 FMRs available free.
 - [ ] FHFA House Price Index: https://www.fhfa.gov/data (downloadable HPI).
+- [ ] Freddie Mac PMMS (educational rates only): https://www.freddiemac.com/pmms — as of 2026-10-22, 30-year fixed 7.32%, 15-year 6.68%. Not a quote; check latest Thursday release.
 - [ ] Local treasurer/tax collector sites for tax status (official .gov).
 - [ ] OpenAddresses for address validation: https://openaddresses.io
 
@@ -56,5 +57,5 @@ Search for official portals. Examples of free public access (verified as .gov):
 - No revenue generated. For any future sale only after real buyer interest and further polish.
 - Compliance: Public records only. Do not redistribute raw data in violation of source terms.
 
-**Status:** v0.3 — Added more county examples (LA, Cook), FHFA, OpenAddresses; improved structure and compliance notes.  
+**Status:** v0.4 — Added current PMMS educational note (2026-10-22 data), confirmed HUD FY2026 FMRs free access.  
 **Next:** Convert to simple PDF or add worksheet template.
