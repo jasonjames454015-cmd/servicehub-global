@@ -16,7 +16,7 @@
    - Flood zone / FEMA free tools
    - Sources list with links
    - Compliance notes (public records only)
-   - **Status (2026-10-30):** v0.5 polished draft — updated current PMMS educational note (as of 2026-10-29: 30yr 7.24%, 15yr 6.60%), confirmed HUD FY2026 FMRs free. Available in repo.
+   - **Status (2026-11-01):** v0.6 polished draft — confirmed PMMS educational note still current (as of 2026-10-29 / checked 2026-11-01: 30yr 7.24%, 15yr 6.60%), free PDF version generated. Available in repo.
 
 3. **Local Service Directory Launch Guide**
    - How to build and populate a free directory

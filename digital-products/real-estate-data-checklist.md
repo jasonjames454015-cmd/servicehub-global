@@ -1,7 +1,7 @@
 # Free Public Real Estate Data Research Checklist
 
-**Version:** 0.5 Polished Draft  
-**Date:** 2026-10-30  
+**Version:** 0.6 Polished Draft  
+**Date:** 2026-11-01  
 **Use:** Educational / research only. Always verify current public access and comply with site terms. Manual lookup preferred. No scraping behind logins. No paid APIs.
 
 ## Pre-Flight
@@ -41,7 +41,7 @@ Search for official portals. Examples of free public access (verified as .gov):
 - [ ] data.gov: search "housing", "real property", "parcel".
 - [ ] HUD User: https://www.huduser.gov/ (Fair Market Rents, housing data). FY2026 FMRs available free.
 - [ ] FHFA House Price Index: https://www.fhfa.gov/data (downloadable HPI).
-- [ ] Freddie Mac PMMS (educational rates only): https://www.freddiemac.com/pmms — as of 2026-10-29, 30-year fixed 7.24% (down 0.08), 15-year 6.60% (down 0.08). Not a quote; check latest Thursday release. Source: freddiemac.com/pmms.
+- [ ] Freddie Mac PMMS (educational rates only): https://www.freddiemac.com/pmms — as of 2026-10-29 (confirmed unchanged on 2026-11-01 check; next weekly release expected Thursday), 30-year fixed 7.24% (down 0.08), 15-year 6.60% (down 0.08). Not a quote; check latest Thursday release. Source: freddiemac.com/pmms.
 - [ ] Local treasurer/tax collector sites for tax status (official .gov).
 - [ ] OpenAddresses for address validation: https://openaddresses.io
 
@@ -57,5 +57,5 @@ Search for official portals. Examples of free public access (verified as .gov):
 - No revenue generated. For any future sale only after real buyer interest and further polish.
 - Compliance: Public records only. Do not redistribute raw data in violation of source terms.
 
-**Status:** v0.5 — Updated PMMS educational note to 2026-10-29 data (30yr 7.24%, 15yr 6.60%).  
+**Status:** v0.6 — Confirmed PMMS educational note still current as of 2026-11-01 (30yr 7.24%, 15yr 6.60%; no new Thursday release yet). Free PDF version also generated.  
 **Next:** Convert to simple PDF or add worksheet template.
