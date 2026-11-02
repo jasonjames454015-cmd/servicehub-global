@@ -1,12 +1,19 @@
 # ServiceHub Global - SCOREBOARD
 
-**Last Updated:** 2026-11-01  
+**Last Updated:** 2026-11-02  
 **Status:** Bootstrap phase. No revenue, no clients, no deals yet. All progress is foundational and $0-cost.
 
 ## Project Overview
 ServiceHub Global is a $0-cost static platform for connecting service providers (freelancers, local pros, digital services) with clients worldwide. Focus: free deployment, service directory, digital products, and compliance-first real-estate research tools/resources.
 
 ## Progress Log (Real only)
+
+### 2026-11-02
+- Verified live Netlify MVP (https://servicehub-global-mvp.netlify.app, site id ff381168-7425-4941-be77-fc8ceedac47b) waitlist form submissions remain 0 (form id 6ab7c51de447e70008e0ffee, last_submission_at null). No fabricated leads.
+- Confirmed latest public mortgage data remains Freddie Mac PMMS as of 2026-10-29: 30-year fixed 7.24%, 15-year 6.60%. No new weekly release as of 2026-11-02 (next expected ~2026-11-05 Thursday). Source: freddiemac.com/pmms. Educational note only — not a rate quote.
+- Updated digital product digital-products/real-estate-data-checklist.md to v0.7 — confirmed PMMS note still current; added USGS Authoritative Source Parcel Viewer index and OpenFEMA public datasets note.
+- Updated DIGITAL_PRODUCTS.md and servicehub/index.html to reflect v0.7 status and current check date. No money spent.
+- GitHub Pages still requires manual Settings > Pages > Source = GitHub Actions. No new revenue, clients, or fabricated metrics. No outreach sent.
 
 ### 2026-11-01
 - Successfully deployed updated static landing page to existing free Netlify project servicehub-global (site id b60288d1-2314-4433-b306-9e1a98d4bc82). Deploy id 6ae73e1280c2f2eea1234e29 reached state ready. Disabled SSO visitor access controls so site is publicly reachable. Live at https://servicehub-global.netlify.app (verified via curl 200).
@@ -100,7 +107,7 @@ ServiceHub Global is a $0-cost static platform for connecting service providers 
 | - | None yet | $0 | No fabricated figures. |
 
 ## Clients / Contacts
-None. Do not list any until real. Live site waitlist submissions: 0 (verified 2026-11-01 via Netlify form; prior checks 2026-10-30, 2026-10-25, 2026-10-23, 2026-10-22 and 2026-10-18).
+None. Do not list any until real. Live site waitlist submissions: 0 (verified 2026-11-02 via Netlify form; prior checks 2026-11-01, 2026-10-30, 2026-10-25, 2026-10-23, 2026-10-22 and 2026-10-18).
 
 ## Next Priority Tasks ($0 only)
 1. Set repo Settings > Pages > Source to "GitHub Actions" to activate the free deploy workflow. Expected URL: https://jasonjames454015-cmd.github.io/servicehub-global/
