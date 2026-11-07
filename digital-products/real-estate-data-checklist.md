@@ -1,7 +1,7 @@
 # Free Public Real Estate Data Research Checklist
 
-**Version:** 0.8 Polished Draft  
-**Date:** 2026-11-05  
+**Version:** 0.9 Polished Draft  
+**Date:** 2026-11-07  
 **Use:** Educational / research only. Always verify current public access and comply with site terms. Manual lookup preferred. No scraping behind logins. No paid APIs.
 
 ## Pre-Flight
@@ -41,7 +41,7 @@ Search for official portals. Examples of free public access (verified as .gov):
 - [ ] data.gov: search "housing", "real property", "parcel".
 - [ ] HUD User: https://www.huduser.gov/ (Fair Market Rents, housing data). FY2026 FMRs available free.
 - [ ] FHFA House Price Index: https://www.fhfa.gov/data (downloadable HPI).
-- [ ] Freddie Mac PMMS (educational rates only): https://www.freddiemac.com/pmms — as of 2026-10-29 (confirmed unchanged on 2026-11-05 check before noon ET; next weekly release expected today 2026-11-05 Thursday at noon ET), 30-year fixed 7.24% (down 0.08), 15-year 6.60% (down 0.08). Not a quote; check latest Thursday release. Source: freddiemac.com/pmms.  
+- [ ] Freddie Mac PMMS (educational rates only): https://www.freddiemac.com/pmms — as of 2026-11-05: 30-year fixed 7.18% (down 0.06 from prior week), 15-year 6.57% (down 0.03). Not a quote; check latest Thursday release. Source: freddiemac.com/pmms. Next expected 2026-11-12.
 - [ ] USGS Authoritative Source Parcel Viewer (index of free parcel publishers): useful starting point to find county portals.  
 - [ ] OpenFEMA datasets (public, no login): https://www.fema.gov/about/openfema/data-sets — housing assistance, NFIP, disaster data.
 - [ ] Local treasurer/tax collector sites for tax status (official .gov).
@@ -59,5 +59,5 @@ Search for official portals. Examples of free public access (verified as .gov):
 - No revenue generated. For any future sale only after real buyer interest and further polish.
 - Compliance: Public records only. Do not redistribute raw data in violation of source terms.
 
-**Status:** v0.8 — Confirmed PMMS educational note still current as of 2026-11-05 (before noon ET; 30yr 7.24%, 15yr 6.60%; next release expected today). Free PDF version also generated.  
+**Status:** v0.9 — Updated PMMS educational note to current rates as of 2026-11-05 (30yr 7.18%, 15yr 6.57%). Free PDF version also generated previously.  
 **Next:** Convert to simple PDF or add worksheet template.
