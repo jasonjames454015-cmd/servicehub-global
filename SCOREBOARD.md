@@ -10,9 +10,8 @@ ServiceHub Global is a $0-cost static platform for connecting service providers 
 
 ### 2026-11-08
 - Confirmed latest public mortgage data remains Freddie Mac PMMS as of 2026-11-05: 30-year fixed 7.18% (down 0.06 from 7.24%), 15-year 6.57% (down 0.03 from 6.60%). Source: freddiemac.com/pmms. Educational note only — not a rate quote. Next release expected 2026-11-12 (Thursday).
-- Verified both free Netlify sites remain live: static https://servicehub-global.netlify.app and interactive MVP https://servicehub-global-mvp.netlify.app. Form submissions remain 0 (prior verification; no new count check today to avoid unnecessary API calls).
-- GitHub Pages still not activated (workflow present; requires Settings > Pages > Source = GitHub Actions).
-- Regenerated free PDF of the real-estate-data-checklist (v0.9) for improved formatting. Continued local work on digital products and research notes. No money spent. No outreach. No fabricated revenue, clients, or metrics.
+- Verified interactive MVP remains live at https://servicehub-global-mvp.netlify.app (200 OK). Static site https://servicehub-global.netlify.app currently returns 404 (previously noted as live; may have been deprovisioned). GitHub Pages still not activated (workflow present; requires Settings > Pages > Source = GitHub Actions).
+- Regenerated free PDF of the real-estate-data-checklist (v0.9) for improved formatting. Continued local work on digital products and research notes. Local updates committed and pushed to GitHub (main). No money spent. No outreach. No fabricated revenue, clients, or metrics.
 
 ### 2026-11-07
 - Confirmed latest public mortgage data: Freddie Mac PMMS as of 2026-11-05: 30-year fixed 7.18% (down 0.06 from 7.24%), 15-year 6.57% (down 0.03 from 6.60%). Source: freddiemac.com/pmms. Educational note only — not a rate quote. Next release expected 2026-11-12.
@@ -46,4 +45,4 @@ None. Do not list any until real. Live site waitlist submissions: 0 (last verifi
 5. Push local updates to GitHub when ready.
 
 ## Blockers
-Netlify free tier previously constrained new deploys; existing sites remain live. Free tools available. Public repo ready for updates and GitHub Pages via Actions (workflow present; source setting pending).
+Netlify free tier previously constrained new deploys; static site currently 404, MVP remains live. Free tools available. Public repo ready for updates and GitHub Pages via Actions (workflow present; source setting pending).
