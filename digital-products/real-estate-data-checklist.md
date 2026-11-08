@@ -59,5 +59,5 @@ Search for official portals. Examples of free public access (verified as .gov):
 - No revenue generated. For any future sale only after real buyer interest and further polish.
 - Compliance: Public records only. Do not redistribute raw data in violation of source terms.
 
-**Status:** v0.9 — Updated PMMS educational note to current rates as of 2026-11-05 (30yr 7.18%, 15yr 6.57%). Free PDF version also generated previously.  
+**Status:** v0.9 — Updated PMMS educational note to current rates as of 2026-11-05 (30yr 7.18%, 15yr 6.57%). Free PDF version regenerated on 2026-11-08.  
 **Next:** Convert to simple PDF or add worksheet template.

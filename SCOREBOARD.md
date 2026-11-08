@@ -1,12 +1,18 @@
 # ServiceHub Global - SCOREBOARD
 
-**Last Updated:** 2026-11-07  
+**Last Updated:** 2026-11-08  
 **Status:** Bootstrap phase. No revenue, no clients, no deals yet. All progress is foundational and $0-cost.
 
 ## Project Overview
 ServiceHub Global is a $0-cost static platform for connecting service providers (freelancers, local pros, digital services) with clients worldwide. Focus: free deployment, service directory, digital products, and compliance-first real-estate research tools/resources.
 
 ## Progress Log (Real only)
+
+### 2026-11-08
+- Confirmed latest public mortgage data remains Freddie Mac PMMS as of 2026-11-05: 30-year fixed 7.18% (down 0.06 from 7.24%), 15-year 6.57% (down 0.03 from 6.60%). Source: freddiemac.com/pmms. Educational note only — not a rate quote. Next release expected 2026-11-12 (Thursday).
+- Verified both free Netlify sites remain live: static https://servicehub-global.netlify.app and interactive MVP https://servicehub-global-mvp.netlify.app. Form submissions remain 0 (prior verification; no new count check today to avoid unnecessary API calls).
+- GitHub Pages still not activated (workflow present; requires Settings > Pages > Source = GitHub Actions).
+- Regenerated free PDF of the real-estate-data-checklist (v0.9) for improved formatting. Continued local work on digital products and research notes. No money spent. No outreach. No fabricated revenue, clients, or metrics.
 
 ### 2026-11-07
 - Confirmed latest public mortgage data: Freddie Mac PMMS as of 2026-11-05: 30-year fixed 7.18% (down 0.06 from 7.24%), 15-year 6.57% (down 0.03 from 6.60%). Source: freddiemac.com/pmms. Educational note only — not a rate quote. Next release expected 2026-11-12.
@@ -35,9 +41,9 @@ None. Do not list any until real. Live site waitlist submissions: 0 (last verifi
 ## Next Priority Tasks ($0 only)
 1. Set repo Settings > Pages > Source to "GitHub Actions" to activate the free deploy workflow.
 2. Monitor live Netlify forms (MVP) for real leads.
-3. Expand digital products (update checklist to v0.9 with new rates).
-4. Further research free public data sources as needed.
-5. Push full local updates when ready.
+3. Further polish digital products (e.g., improve checklist formatting or add more free source examples).
+4. Further research free public data sources as needed (HUD FMRs, FHFA HPI, Census ACS).
+5. Push local updates to GitHub when ready.
 
 ## Blockers
 Netlify free tier previously constrained new deploys; existing sites remain live. Free tools available. Public repo ready for updates and GitHub Pages via Actions (workflow present; source setting pending).
