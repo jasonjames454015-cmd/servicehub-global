@@ -32,4 +32,5 @@
 ## Potential Productization
 Turn the above into a downloadable checklist or template for investors/researchers. Sell as digital product once polished. All based on public info.
 
-**Status:** Research notes only. No data downloaded or tools built yet.
+**Status:** Research notes only. No data downloaded or tools built yet.  
+**Latest educational PMMS (not a quote, as of 2026-11-05, verified 2026-11-10):** 30-year fixed 7.18%, 15-year 6.57%. Source: freddiemac.com/pmms. Next release ~2026-11-12.
