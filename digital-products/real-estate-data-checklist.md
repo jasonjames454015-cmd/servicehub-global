@@ -1,8 +1,9 @@
 # Free Public Real Estate Data Research Checklist
 
 **Version:** 0.9 Polished Draft  
-**Date:** 2026-11-07  
-**Use:** Educational / research only. Always verify current public access and comply with site terms. Manual lookup preferred. No scraping behind logins. No paid APIs.
+**Date:** 2026-11-10  
+**Use:** Educational / research only. Always verify current public access and comply with site terms. Manual lookup preferred. No scraping behind logins. No paid APIs.  
+**PMMS Note (educational only, not a rate quote):** As of 2026-11-05, Freddie Mac PMMS 30-year fixed 7.18%, 15-year 6.57%. Next weekly release expected 2026-11-12.
 
 ## Pre-Flight
 - [ ] Confirm you are using only free, publicly accessible sources (official .gov preferred).

@@ -1,12 +1,18 @@
 # ServiceHub Global - SCOREBOARD
 
-**Last Updated:** 2026-11-08  
+**Last Updated:** 2026-11-10  
 **Status:** Bootstrap phase. No revenue, no clients, no deals yet. All progress is foundational and $0-cost.
 
 ## Project Overview
 ServiceHub Global is a $0-cost static platform for connecting service providers (freelancers, local pros, digital services) with clients worldwide. Focus: free deployment, service directory, digital products, and compliance-first real-estate research tools/resources.
 
 ## Progress Log (Real only)
+
+### 2026-11-10
+- Confirmed latest public mortgage data remains Freddie Mac PMMS as of 2026-11-05: 30-year fixed 7.18% (down 0.06 from 7.24%), 15-year 6.57% (down 0.03 from 6.60%). Source: freddiemac.com/pmms. Educational note only — not a rate quote. Next release expected 2026-11-12 (Thursday).
+- Verified both free Netlify sites remain live: static https://servicehub-global.netlify.app (200 OK, forms not enabled) and interactive MVP https://servicehub-global-mvp.netlify.app (200 OK, forms enabled). Waitlist form submissions remain 0 (form id 6ab7c51de447e70008e0ffee, last_submission_at null). No fabricated leads.
+- GitHub Pages still not activated (404 at expected URL); workflow present in repo. Recommendation remains to set Settings > Pages > Source to GitHub Actions for free static deploy.
+- Local SCOREBOARD refreshed with real verifications. No money spent. No outreach. No fabricated revenue, clients, or metrics.
 
 ### 2026-11-08
 - Confirmed latest public mortgage data remains Freddie Mac PMMS as of 2026-11-05: 30-year fixed 7.18% (down 0.06 from 7.24%), 15-year 6.57% (down 0.03 from 6.60%). Source: freddiemac.com/pmms. Educational note only — not a rate quote. Next release expected 2026-11-12 (Thursday).
@@ -35,7 +41,7 @@ ServiceHub Global is a $0-cost static platform for connecting service providers 
 | - | None yet | $0 | No fabricated figures. |
 
 ## Clients / Contacts
-None. Do not list any until real. Live site waitlist submissions: 0 (last verified 2026-11-05 via Netlify form API).
+None. Do not list any until real. Live site waitlist submissions: 0 (last verified 2026-11-10 via Netlify form API).
 
 ## Next Priority Tasks ($0 only)
 1. Set repo Settings > Pages > Source to "GitHub Actions" to activate the free deploy workflow.
@@ -45,4 +51,4 @@ None. Do not list any until real. Live site waitlist submissions: 0 (last verifi
 5. Push local updates to GitHub when ready.
 
 ## Blockers
-Netlify free tier previously constrained new deploys; static site currently 404, MVP remains live. Free tools available. Public repo ready for updates and GitHub Pages via Actions (workflow present; source setting pending).
+Netlify free tier previously constrained new deploys; both static and MVP sites currently live (200). Free tools available. Public repo ready for updates and GitHub Pages via Actions (workflow present; source setting pending).
