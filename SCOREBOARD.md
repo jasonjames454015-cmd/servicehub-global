@@ -1,12 +1,17 @@
 # ServiceHub Global - SCOREBOARD
 
-**Last Updated:** 2026-11-10  
+**Last Updated:** 2026-11-14  
 **Status:** Bootstrap phase. No revenue, no clients, no deals yet. All progress is foundational and $0-cost.
 
 ## Project Overview
 ServiceHub Global is a $0-cost static platform for connecting service providers (freelancers, local pros, digital services) with clients worldwide. Focus: free deployment, service directory, digital products, and compliance-first real-estate research tools/resources.
 
 ## Progress Log (Real only)
+
+### 2026-11-14
+- Confirmed latest public mortgage data: Freddie Mac PMMS as of 2026-11-12: 30-year fixed 7.11% (down 0.07 from 7.18%), 15-year 6.45% (down 0.12 from 6.57%). Source: freddiemac.com/pmms. Educational note only — not a rate quote. Next release expected 2026-11-19 (Thursday).
+- Verified both free Netlify sites remain live: static https://servicehub-global.netlify.app (200 OK) and interactive MVP https://servicehub-global-mvp.netlify.app (200 OK). GitHub Pages still 404 (workflow ready; enable in Settings > Pages > Source = GitHub Actions).
+- Updated local research notes and digital product drafts with current PMMS rates. No money spent. No outreach. No fabricated revenue, clients, or metrics. Waitlist submissions remain 0 (prior verification).
 
 ### 2026-11-10
 - Confirmed latest public mortgage data remains Freddie Mac PMMS as of 2026-11-05: 30-year fixed 7.18% (down 0.06 from 7.24%), 15-year 6.57% (down 0.03 from 6.60%). Source: freddiemac.com/pmms. Educational note only — not a rate quote. Next release expected 2026-11-12 (Thursday).
@@ -30,18 +35,9 @@ ServiceHub Global is a $0-cost static platform for connecting service providers 
 ### 2026-11-05
 - Verified live Netlify MVP (https://servicehub-global-mvp.netlify.app, site id ff381168-7425-4941-be77-fc8ceedac47b) waitlist form submissions remain 0 (form id 6ab7c51de447e70008e0ffee, last_submission_at null). No fabricated leads. Forms enabled with honeypot.
 - Confirmed latest public mortgage data remains Freddie Mac PMMS as of 2026-10-29: 30-year fixed 7.24%, 15-year 6.60%. No new weekly release as of 2026-11-05 ~08:30 ET (releases Thursdays at noon ET; next expected today). Source: freddiemac.com/pmms. Educational note only — not a rate quote.
-- Updated digital product digital-products/real-estate-data-checklist.md to v0.8 — confirmed PMMS note still current; noted today's expected release.
-- Confirmed both free Netlify sites remain live and publicly accessible (static servicehub-global and interactive MVP). No money spent. No outreach sent. No new revenue, clients, or fabricated metrics.
-- Local files updated from public GitHub repo for continued work.
+- Continued foundational work on digital products and free deploy options. No money spent.
 
-(Full historical log maintained locally and in prior commits. See Git history for complete real progress.)
-
-## Revenue Tracking
-| Date | Source | Amount | Notes |
-|------|--------|--------|-------|
-| - | None yet | $0 | No fabricated figures. |
-
-## Clients / Contacts
+## Revenue & Clients
 None. Do not list any until real. Live site waitlist submissions: 0 (last verified 2026-11-10 via Netlify form API).
 
 ## Next Priority Tasks ($0 only)
