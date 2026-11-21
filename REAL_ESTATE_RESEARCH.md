@@ -16,7 +16,7 @@
 
 ### 3. Federal Portals
 - data.gov: searchable catalog of government datasets.
-- HUD: fair market rents, assisted housing data (huduser.gov).
+- HUD: fair market rents (FY2026 and FY2027 available), assisted housing data (huduser.gov/portal/datasets/fmr.html — free downloads, lookups, documentation).
 - FEMA: National Flood Hazard Layer (public map viewer).
 
 ### 4. State & Local GIS
@@ -27,10 +27,10 @@
 2. Pull assessor record for ownership/tax.
 3. Overlay Census tract demographics.
 4. Check FEMA flood zone.
-5. Note any public sales history.
+5. Note any public sales history and HUD FMR benchmarks (free at huduser.gov).
 
 ## Potential Productization
 Turn the above into a downloadable checklist or template for investors/researchers. Sell as digital product once polished. All based on public info.
 
 **Status:** Research notes only. No data downloaded or tools built yet.  
-**Latest educational PMMS (not a quote, as of 2026-11-12, verified 2026-11-14):** 30-year fixed 7.11%, 15-year 6.45%. Source: freddiemac.com/pmms. Next release ~2026-11-19.
+**Latest educational PMMS (not a quote, as of 2026-11-19, verified 2026-11-21):** 30-year fixed 7.28%, 15-year 6.66%. Source: freddiemac.com/pmms. Next release ~2026-11-26.

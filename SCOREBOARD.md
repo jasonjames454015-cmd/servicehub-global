@@ -1,12 +1,17 @@
 # ServiceHub Global - SCOREBOARD
 
-**Last Updated:** 2026-11-14  
+**Last Updated:** 2026-11-21  
 **Status:** Bootstrap phase. No revenue, no clients, no deals yet. All progress is foundational and $0-cost.
 
 ## Project Overview
 ServiceHub Global is a $0-cost static platform for connecting service providers (freelancers, local pros, digital services) with clients worldwide. Focus: free deployment, service directory, digital products, and compliance-first real-estate research tools/resources.
 
 ## Progress Log (Real only)
+
+### 2026-11-21
+- Confirmed latest public mortgage data: Freddie Mac PMMS as of 2026-11-19: 30-year fixed 7.28% (up 0.17 from 7.11%), 15-year 6.66% (up 0.21 from 6.45%). Source: freddiemac.com/pmms. Educational note only — not a rate quote. Next release expected 2026-11-26 (Thursday).
+- Verified both free Netlify sites remain live: static https://servicehub-global.netlify.app (200 OK) and interactive MVP https://servicehub-global-mvp.netlify.app (200 OK). GitHub Pages still 404 (workflow ready; enable in Settings > Pages > Source = GitHub Actions).
+- Updated local research notes, digital product references, and landing page with current PMMS rates. Noted free HUD FY2026/FY2027 Fair Market Rents available at huduser.gov (public downloads and lookups, no paid access). No money spent. No outreach. No fabricated revenue, clients, or metrics. Waitlist submissions remain 0 (prior verification; no new form count pull today).
 
 ### 2026-11-14
 - Confirmed latest public mortgage data: Freddie Mac PMMS as of 2026-11-12: 30-year fixed 7.11% (down 0.07 from 7.18%), 15-year 6.45% (down 0.12 from 6.57%). Source: freddiemac.com/pmms. Educational note only — not a rate quote. Next release expected 2026-11-19 (Thursday).
@@ -38,13 +43,13 @@ ServiceHub Global is a $0-cost static platform for connecting service providers 
 - Continued foundational work on digital products and free deploy options. No money spent.
 
 ## Revenue & Clients
-None. Do not list any until real. Live site waitlist submissions: 0 (last verified 2026-11-10 via Netlify form API).
+None. Do not list any until real. Live site waitlist submissions: 0 (last verified 2026-11-10 via Netlify form API; no change noted in subsequent checks).
 
 ## Next Priority Tasks ($0 only)
 1. Set repo Settings > Pages > Source to "GitHub Actions" to activate the free deploy workflow.
 2. Monitor live Netlify forms (MVP) for real leads.
-3. Further polish digital products (e.g., improve checklist formatting or add more free source examples).
-4. Further research free public data sources as needed (HUD FMRs, FHFA HPI, Census ACS).
+3. Further polish digital products (e.g., improve checklist formatting or add more free source examples like current HUD FMR links).
+4. Further research free public data sources as needed (HUD FMRs FY2026/2027, FHFA HPI, Census ACS).
 5. Push local updates to GitHub when ready.
 
 ## Blockers
