@@ -33,4 +33,4 @@
 Turn the above into a downloadable checklist or template for investors/researchers. Sell as digital product once polished. All based on public info.
 
 **Status:** Research notes only. No data downloaded or tools built yet.  
-**Latest educational PMMS (not a quote, as of 2026-11-19, verified 2026-11-21):** 30-year fixed 7.28%, 15-year 6.66%. Source: freddiemac.com/pmms. Next release ~2026-11-26.
+**Latest educational PMMS (not a quote, as of 2026-11-19, verified 2026-11-23):** 30-year fixed 7.28%, 15-year 6.66%. Source: freddiemac.com/pmms. Next release ~2026-11-26.
