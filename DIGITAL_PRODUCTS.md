@@ -16,7 +16,7 @@
    - Flood zone / FEMA free tools
    - Sources list with links
    - Compliance notes (public records only)
-   - **Status (2026-11-10):** v0.9 polished draft — updated PMMS educational note to current rates as of 2026-11-05 (30yr 7.18%, 15yr 6.57%). Date refreshed. Free PDF available in repo.
+   - **Status (2026-11-25):** v0.9 polished draft remains current. Educational PMMS note verified still 30yr 7.28% / 15yr 6.66% as of 2026-11-19. Free PDF available in repo. No changes needed today.
 
 3. **Local Service Directory Launch Guide**
    - How to build and populate a free directory
