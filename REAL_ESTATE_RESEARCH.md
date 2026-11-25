@@ -18,6 +18,7 @@
 - data.gov: searchable catalog of government datasets.
 - HUD: fair market rents (FY2026 and FY2027 available), assisted housing data (huduser.gov/portal/datasets/fmr.html — free downloads, lookups, documentation).
 - FEMA: National Flood Hazard Layer (public map viewer).
+- FHFA House Price Index (free public data downloads).
 
 ### 4. State & Local GIS
 - Many states/counties offer free GIS viewers or downloadable parcel data.
@@ -33,4 +34,4 @@
 Turn the above into a downloadable checklist or template for investors/researchers. Sell as digital product once polished. All based on public info.
 
 **Status:** Research notes only. No data downloaded or tools built yet.  
-**Latest educational PMMS (not a quote, as of 2026-11-19, verified 2026-11-23):** 30-year fixed 7.28%, 15-year 6.66%. Source: freddiemac.com/pmms. Next release ~2026-11-26.
+**Latest educational PMMS (not a quote, as of 2026-11-19, verified 2026-11-25):** 30-year fixed 7.28%, 15-year 6.66%. Source: freddiemac.com/pmms. Next release ~2026-11-26.
